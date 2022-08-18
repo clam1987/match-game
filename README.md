@@ -24,4 +24,4 @@ You'll most likely be using local storage to store this information, but if you 
 
 Ex. (Not a perfect example tho)
 
-![image of matching game](https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/sam/sweet-memory-game.gif)
+![image of matching game](./assets/imgs/game.gif)
