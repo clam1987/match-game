@@ -4,7 +4,7 @@
 This is a simple card matching game where the user tries to clear the board of all matching cards. The top scores will be shown in the high score screen. This is where you can personalize this game and you can even make a theme out of it if you'd like.
 
 ## Technologies
-There are no restrictions when it comes to frontend frameworks you can use. HTML and css is fine too. I would like to see some frameworks being used so choose either material or bootstrap. Whatever you are more familiar with.
+There are no restrictions when it comes to frontend frameworks you can use. HTML and css is fine too. I would like to see some css frameworks being used so choose either material or bootstrap. Whatever you are more familiar with.
 ## Game Logic
 In this project, you'll be creating a game matching game where you will have multiple cards with the same values. When the user selects 2 of the cards, if the cards match, then the user gets a point. If the card does not match, the cards flip back to their backside and the user gets to go again. We will be implementing a timer to countdown so the user can't be doing this infinitely. When the board is cleared, the user wins the game and the game will save it's current timer + the user's score. It will then be printed to a high score screen. A choice should be given to the user at this point as to whether they want to go to the high score screen or start a new game which will reinitialize all values + the cards.
 
